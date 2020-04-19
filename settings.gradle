@@ -1,0 +1,5 @@
+rootProject.name='MultiModuleNavigationDemoApp'
+include ':app'
+include ':core'
+include ':featureModuleA'
+include ':featureModuleB'
